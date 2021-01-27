@@ -39,7 +39,7 @@
   border-right: 1px solid #828282;
 }
 
-.footerThirdBottomLeft > a {
+.footerThirdBottomLeft > p {
   text-decoration: none;
   font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
   margin-right: 15px;
@@ -47,7 +47,7 @@
   color: #828282;
 }
 
-.footerThirdBottomLeft > a:nth-child(6) {
+.footerThirdBottomLeft > p:nth-child(6) {
   color: skyblue;
 }
 
