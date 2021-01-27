@@ -1,0 +1,18 @@
+.popUp {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.popUp > p {
+  font-size: 14px;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+  color: #000;
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+.popUp > p:hover {
+  color: red;
+}

@@ -1,0 +1,76 @@
+.subBanner {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  background: #000;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.subBanner > img {
+  height: 100%;
+  width: 100%;
+  vertical-align: top;
+  transition: opacity 0.3s;
+  opacity: 1;
+}
+
+.subBanner > img:hover {
+  transition: all 0.5s ease;
+  transform: scale(1.1);
+  opacity: 0.8;
+}
+
+.subBannerSide {
+  color: black;
+  position: absolute;
+  width: 100%;
+  top: 5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.subBannerSideTitle1 {
+  font-size: 24px;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+  line-height: 1.2;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.subBannerSideTitle2 {
+  font-size: 18px;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+  line-height: 1.2;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.subBannerSideTitle3 {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+  line-height: 1.2;
+  font-weight: 500;
+}
+
+.subBannerSideTitle3 > a {
+  text-decoration: none;
+  color: black;
+}
+
+.subBannerSideTitle3 > a:hover {
+  text-decoration: underline;
+  color: gray;
+}
+
+.sb {
+  color: white;
+}
+
+.sb > a {
+  color: white;
+}

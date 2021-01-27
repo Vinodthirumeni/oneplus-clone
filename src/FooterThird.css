@@ -1,0 +1,99 @@
+.footerThird {
+  display: flex;
+  justify-content: space-around;
+}
+
+.footerThirdText {
+  display: flex;
+  flex-direction: column;
+}
+
+.footerThirdText > a {
+  text-decoration: none;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+  margin-bottom: 10px;
+  color: #828282;
+}
+
+.footerThirdText > a:hover {
+  color: black;
+}
+
+.footerThirdText > p {
+  color: black;
+  margin-bottom: 15px;
+}
+
+.footerThirdBottom {
+  margin-bottom: 15px;
+  margin-left: 50px;
+  margin-right: 50px;
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid lightgrey;
+}
+
+.footerThirdBottomLeft {
+  display: flex;
+  margin-top: 50px;
+  border-right: 1px solid #828282;
+}
+
+.footerThirdBottomLeft > a {
+  text-decoration: none;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+  margin-right: 15px;
+  font-weight: 500;
+  color: #828282;
+}
+
+.footerThirdBottomLeft > a:nth-child(6) {
+  color: skyblue;
+}
+
+.footerThirdBottomRight {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  width: 300px;
+  margin-bottom: 15px;
+}
+
+.footerThirdBottomRight > a > .MuiSvgIcon-root {
+  color: #828282;
+  margin-top: 15px;
+}
+
+.footerThirdBottomRight > a > .MuiSvgIcon-root:hover {
+  color: black;
+}
+
+.footerThirdLast {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+
+.footerThirdLastRight {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footerThirdLastLeft > p {
+  font-size: 16px;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: 500;
+}
+
+.footerThirdLastRight > a {
+  margin-right: 15px;
+  margin-left: 15px;
+  text-decoration: none;
+  color: black;
+}
+
+.footerThirdLastCopyRight {
+  margin-bottom: 50px;
+  margin-left: 50px;
+  color: #828282;
+}

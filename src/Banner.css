@@ -1,0 +1,144 @@
+.banner {
+  position: relative;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.banner > img {
+  width: 100%;
+  object-fit: contain;
+}
+
+.bannerText1 {
+  font-size: 24px;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+  line-height: 1.2;
+  font-weight: 500;
+}
+
+.bannerText2 {
+  margin-top: 6px;
+  margin-bottom: 20px;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: 450;
+}
+
+.bannerTextLink {
+  display: flex;
+  align-items: center;
+}
+
+.bannerTextLink > .MuiSvgIcon-root {
+  margin-top: 3px;
+  font-size: 22px;
+  font-weight: 450;
+}
+
+.bannerTextLink > a {
+  text-decoration: none;
+  color: black;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: 450;
+}
+
+.bannerTextLink > a:hover {
+  text-decoration: underline;
+  color: gray;
+}
+
+.bannerSide {
+  color: black;
+  position: absolute;
+  width: 25%;
+  top: 25%;
+  bottom: 20%;
+  left: 20%;
+}
+
+.b2 {
+  top: 40%;
+}
+
+.b3 {
+  top: 30%;
+}
+
+.b4 {
+  top: 40%;
+}
+
+.b5 {
+  top: 35%;
+}
+
+.b6 {
+  top: 35%;
+}
+
+.b7 {
+  top: 35%;
+}
+
+.t7,
+.tt7,
+.ttt7,
+.tttt7 {
+  color: white;
+}
+.t8,
+.tt8,
+.ttt8,
+.tttt8 {
+  color: white;
+}
+
+.ttt7 > a {
+  color: white;
+}
+
+.ttt8 > a {
+  color: white;
+}
+
+.bannerTextButton {
+  background-color: transparent;
+  padding: 10px;
+  width: 30%;
+  margin-bottom: 10px;
+  border: 2px solid black;
+}
+
+.bannerTextButton > a {
+  text-decoration: none;
+  color: black;
+}
+
+.bannerTextButtonWhite > a {
+  text-decoration: none;
+  color: black;
+}
+
+.bannerTextButton > .btn7 {
+  margin: 2px solid white;
+}
+
+.bannerTextButton > .btn8 {
+  margin: 2px solid white;
+}
+
+.btn7 > a,
+.btn8 > a {
+  color: white;
+}
+
+.bannerTextButtonWhite {
+  background-color: transparent;
+  padding: 10px;
+  width: 30%;
+  margin-bottom: 10px;
+  border: 2px solid white;
+}

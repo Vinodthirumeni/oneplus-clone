@@ -1,0 +1,55 @@
+.footerFirst {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  background-color: #f7ece4;
+}
+
+.footerFirstBody > img {
+  max-height: 80px;
+  max-width: 200px;
+  margin-bottom: 15px;
+}
+
+.footerFirstBody {
+  margin: 30px;
+}
+
+.footerFirstBody > p {
+  padding: 0 40px;
+  height: 5pc;
+  line-height: 20px;
+  color: #666;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.footerFirstBody > a {
+  color: #09c;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.footerFirstText {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.footerFirstText > a {
+  text-decoration: none;
+  color: #09c;
+}
+
+.footerFirstText > a:hover {
+  text-decoration: underline;
+  color: #09c;
+}
+
+.footerFirstText > .MuiSvgIcon-root {
+  color: #09c;
+}

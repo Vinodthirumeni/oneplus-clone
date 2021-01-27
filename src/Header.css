@@ -1,0 +1,196 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 10px;
+  margin-left: 10px;
+  position: relative;
+}
+
+.headerMiddle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.headerMiddle > p {
+  margin-right: 20px;
+  font-weight: 500;
+  padding: 20px;
+}
+
+.headerMiddle > a {
+  margin-right: 20px;
+  font-weight: 500;
+  padding: 20px;
+  color: black;
+  text-decoration: none;
+}
+
+.headerMiddle > a:hover {
+  border-bottom: 3px solid orange;
+}
+
+.headerMiddle > p:hover {
+  border-bottom: 3px solid orange;
+}
+
+.headerMiddleLeft {
+  display: flex;
+  margin-right: 30px;
+  align-items: center;
+}
+
+.headerLeft > img {
+  height: 60px;
+  min-width: 60px;
+}
+
+.headerRight > .MuiSvgIcon-root {
+  margin-left: 20px;
+  font-weight: 500;
+  padding: 20px;
+  color: gray;
+}
+
+.headerRight > .MuiSvgIcon-root:hover {
+  border-bottom: 3px solid orange;
+}
+
+.headerMiddleLeft > p {
+  font-weight: 500;
+  padding: 20px;
+}
+
+.headerMiddleLeft > p:hover {
+  border-bottom: 3px solid red;
+}
+
+.headerMiddleLeft > h6 {
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 3px;
+  font-size: 8px;
+}
+
+.headerPopHide {
+  display: none;
+  background-color: white;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+.headerPop:hover + .headerPopHide {
+  display: block;
+  color: red;
+  position: absolute;
+}
+
+.headerPopHideFlex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  border: 1px solid lightgray;
+}
+
+/*---------------------------------*/
+
+.headerPopHideText {
+  display: none;
+  background-color: white;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  z-index: 100;
+  border: 1px solid lightgray;
+}
+
+.headerPop:hover + .headerPopHideText {
+  display: block;
+  color: red;
+  position: absolute;
+}
+
+.headerPopHideFlexText {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 15px;
+}
+
+.headerPopHideFlexText > p {
+  text-decoration: none;
+  color: gray;
+  border-bottom: 1px solid lightgray;
+  margin: 10px;
+  font-size: 14px;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.headerRight > .MuiSvgIcon-root:hover + .headerPopHideText {
+  display: block;
+  color: red;
+  position: absolute;
+}
+
+.headerPopHideFlexSubText {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.headerPopHideFlexSubText > p {
+  color: skyblue;
+  text-decoration: none;
+  margin-left: 10px;
+  font-size: 14px;
+  font-family: Roman-55, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.headerPopHideFlexText > a > span {
+  color: red;
+  font-size: 8px;
+  padding: 1px;
+  border: 1px solid red;
+  border-radius: 4px;
+}
+
+.headerPopHideFlexTextIcon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 15px;
+}
+
+.headerPopHideFlexTextIcon > p {
+  margin-top: 10px;
+  margin-bottom: 50px;
+  color: gray;
+  text-decoration: none;
+  border-bottom: 2px solid lightgray;
+}
+
+.headerPopHideFlexTextIcon > .MuiSvgIcon-root {
+  font-size: 70px;
+  color: lightgray;
+}
+
+.headerPopHideFlexTextIcon > button {
+  width: 200px;
+  background-color: transparent;
+  padding: 10px;
+  transition: width 1s;
+}
+
+.headerPopHideFlexTextIcon > button:hover {
+  background-color: black;
+  width: 300px;
+  color: white;
+}
