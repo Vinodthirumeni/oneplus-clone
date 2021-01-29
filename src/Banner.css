@@ -142,3 +142,155 @@
   margin-bottom: 10px;
   border: 2px solid white;
 }
+
+@media only screen and (max-width: 767px) {
+  .banner {
+    margin-bottom: 5px;
+  }
+
+  .bannerText2 {
+    margin-bottom: 10px;
+  }
+
+  .bannerTextButton {
+    margin-bottom: 5px;
+  }
+
+  .bannerTextButtonWhite {
+    margin-bottom: 5px;
+  }
+  .bannerText1 {
+    font-size: 12px;
+  }
+
+  .bannerText2 {
+    font-size: 9px;
+  }
+
+  .bannerTextLink > .MuiSvgIcon-root {
+    font-size: 11px;
+  }
+
+  .bannerTextLink > a {
+    font-size: 9px;
+  }
+
+  .bannerTextButton {
+    padding: 1px;
+    width: 80%;
+  }
+
+  .bannerTextButton > a {
+    font-size: 12px;
+  }
+  .btn7,
+  .btn8 {
+    padding: 1px;
+    width: 80%;
+  }
+
+  .btn7,
+  .btn8 > a {
+    font-size: 12px;
+  }
+
+  .b2 {
+    top: 30%;
+  }
+
+  .b3 {
+    top: 15%;
+  }
+
+  .b4 {
+    top: 20%;
+  }
+
+  .b5 {
+    top: 16%;
+  }
+
+  .b6 {
+    top: 16%;
+  }
+
+  .b7 {
+    top: 16%;
+  }
+}
+
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+  .banner {
+    margin-bottom: 5px;
+  }
+
+  .bannerText2 {
+    margin-bottom: 10px;
+  }
+
+  .bannerTextButton {
+    margin-bottom: 5px;
+  }
+
+  .bannerTextButtonWhite {
+    margin-bottom: 5px;
+  }
+  .bannerText1 {
+    font-size: 12px;
+  }
+
+  .bannerText2 {
+    font-size: 9px;
+  }
+
+  .bannerTextLink > .MuiSvgIcon-root {
+    font-size: 11px;
+  }
+
+  .bannerTextLink > a {
+    font-size: 9px;
+  }
+
+  .bannerTextButton {
+    padding: 1px;
+    width: 80%;
+  }
+
+  .bannerTextButton > a {
+    font-size: 12px;
+  }
+  .btn7,
+  .btn8 {
+    padding: 1px;
+    width: 80%;
+  }
+
+  .btn7,
+  .btn8 > a {
+    font-size: 12px;
+  }
+
+  .b2 {
+    top: 30%;
+  }
+
+  .b3 {
+    top: 15%;
+  }
+
+  .b4 {
+    top: 20%;
+  }
+
+  .b5 {
+    top: 16%;
+  }
+
+  .b6 {
+    top: 16%;
+  }
+
+  .b7 {
+    top: 16%;
+  }
+}

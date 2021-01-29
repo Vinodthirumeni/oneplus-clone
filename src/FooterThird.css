@@ -25,6 +25,7 @@
 }
 
 .footerThirdBottom {
+  display: flex;
   margin-bottom: 15px;
   margin-left: 50px;
   margin-right: 50px;
@@ -96,4 +97,114 @@
   margin-bottom: 50px;
   margin-left: 50px;
   color: #828282;
+}
+
+@media only screen and (max-width: 767px) {
+  .footerThird {
+    margin-top: -110px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .footerThirdText > p {
+    font-size: 8px;
+  }
+
+  .footerThirdText > a {
+    font-size: 8px;
+  }
+
+  .footerThirdBottom {
+    display: none;
+  }
+
+  .footerThirdBottomLeft {
+    font-size: 8px;
+  }
+
+  .footerThirdBottomRight > a > .MuiSvgIcon-root {
+    display: none;
+  }
+
+  .footerThirdBottom {
+    margin-top: -50px;
+  }
+
+  .footerThirdBottomLeft {
+    border-right: none;
+  }
+
+  .footerThirdLast {
+    margin-bottom: 10px;
+  }
+
+  .footerThirdLastLeft > p {
+    font-size: 8px;
+  }
+
+  .footerThirdLastRight > a {
+    margin: 5px;
+    font-size: 8px;
+  }
+
+  .footerThirdLastCopyRight {
+    font-size: 8px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+  }
+}
+
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+  .footerThird {
+    margin-top: -110px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .footerThirdText > p {
+    font-size: 8px;
+  }
+
+  .footerThirdText > a {
+    font-size: 8px;
+  }
+
+  .footerThirdBottom {
+    display: none;
+  }
+
+  .footerThirdBottomLeft {
+    font-size: 8px;
+  }
+
+  .footerThirdBottomRight > a > .MuiSvgIcon-root {
+    display: none;
+  }
+
+  .footerThirdBottom {
+    margin-top: -50px;
+  }
+
+  .footerThirdBottomLeft {
+    border-right: none;
+  }
+
+  .footerThirdLast {
+    margin-bottom: 10px;
+  }
+
+  .footerThirdLastLeft > p {
+    font-size: 8px;
+  }
+
+  .footerThirdLastRight > a {
+    margin: 5px;
+    font-size: 8px;
+  }
+
+  .footerThirdLastCopyRight {
+    font-size: 8px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+  }
 }
