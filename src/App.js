@@ -35,7 +35,7 @@ function App() {
             title1="OnePlus Store App"
             title2="Seamless Shopping Experience. Quick Support."
             title3="Download now"
-            download_link="https://play.google.com/store/apps/details?id=com.oneplus.mall"
+            download_link=""
           />
 
           <Banner
@@ -44,7 +44,7 @@ function App() {
             title2="19th - 26th Jan"
             title3="Learn more"
             css="b2"
-            download_link="https://www.oneplus.in/event/republic-day-sale?from=homepage"
+            download_link=""
           />
 
           <Banner
@@ -54,8 +54,8 @@ function App() {
             title3="Learn more"
             title4="From ₹ 3 699"
             title5="Buy now"
-            download_link="https://www.oneplus.in/audio/oneplus-buds-z-stevenharrington?from=homepage"
-            buy_now="https://www.oneplus.in/product/oneplus-buds-z?from=homepage"
+            download_link=""
+            buy_now=""
             css="b3"
           />
 
@@ -66,8 +66,8 @@ function App() {
             title3="Learn more"
             title4="From ₹2 499"
             title5="Buy now"
-            download_link="https://www.oneplus.in/oneplus-band?from=homepage"
-            buy_now="https://www.oneplus.in/product/oneplus-band?from=homepage"
+            download_link=""
+            buy_now=""
             css="b4"
           />
 
@@ -78,8 +78,8 @@ function App() {
             title3="Learn more"
             title4="From ₹14 999"
             title5="Buy now"
-            download_link="https://www.oneplus.in/tv-y-series?from=homepage"
-            buy_now="https://www.oneplus.in/oneplus-tv-y-series?from=homepage"
+            download_link=""
+            buy_now=""
             css="b5"
           />
 
@@ -89,8 +89,8 @@ function App() {
             title3="Learn more"
             title4="From ₹1 899"
             title5="Buy now"
-            download_link="https://www.oneplus.in/product/oneplus-bullets-wireless-z?from=homepage"
-            buy_now="https://www.oneplus.in/product/oneplus-bullets-wireless-z?from=homepage"
+            download_link=""
+            buy_now=""
             css="b6"
           />
 
@@ -101,8 +101,8 @@ function App() {
             title3="Learn more"
             title4="From ₹42 999"
             title5="Buy now"
-            download_link="https://www.oneplus.in/8t?from=homepage"
-            buy_now="https://www.oneplus.in/oneplus-8t?from=homepage"
+            download_link=""
+            buy_now=""
             css="b7"
             white
           />
@@ -114,8 +114,8 @@ function App() {
             title3="Learn more"
             title4="From ₹24 999"
             title5="Buy now"
-            download_link="https://www.oneplus.in/nord?from=homepage"
-            buy_now="https://www.oneplus.in/oneplus-nord?from=homepage"
+            download_link=""
+            buy_now=""
             css="b8"
             white
           />
@@ -127,14 +127,14 @@ function App() {
               title1="OnePlus Power Bank"
               title2="From ₹ 999"
               title3="Buy now"
-              buy_now="https://www.oneplus.in/product/oneplus-power-bank-10000mah?from=homepage"
+              buy_now=""
             />
             <SubBanner
               banner={SubBanner2}
               title1="OnePlus Bullets Wireless Z series"
               title2="From ₹1 899"
               title3="Buy now"
-              buy_now="https://www.oneplus.in/product/oneplus-bullets-wireless-z?from=homepage"
+              buy_now=""
             />
           </div>
           <div className="subCompBannerApp">
@@ -149,7 +149,7 @@ function App() {
               banner={SubBanner4}
               title1="OnePlus Urban Traveller Backpack"
               title3="Learn more"
-              buy_now="https://www.oneplus.in/product/oneplus-urban-traveler-backpack?from=homepage"
+              buy_now=""
             />
           </div>
           <div className="subCompBannerApp">
@@ -158,14 +158,14 @@ function App() {
               title1="Red Cable Club"
               title2="Join us and level up your membership"
               title3="Learn more"
-              buy_now="https://www.oneplus.in/redcableclub?from=homepage"
+              buy_now=""
               css="sb"
             />
             <SubBanner
               banner={SubBanner6}
               title1="OnePlus Education Benefits"
               title3="Download now"
-              buy_now="https://www.oneplus.in/education?from=homepage"
+              buy_now=""
             />
           </div>
         </div>
@@ -177,19 +177,19 @@ function App() {
             ad={Ads1}
             title1="The OnePlus Buds offer excellent battery life, and as we found out, these claims are quite accurate"
             title2="Learn more"
-            learn_more="https://www.indiatoday.in/technology/reviews/story/oneplus-buds-review-the-bang-for-buck-tws-earphones-1707905-2020-08-05"
+            learn_more=""
           />
           <FooterFirst
             ad={Ads2}
             title1="Overall, the audio performance is excellent. it balances both highs and lows perfectly"
             title2="Learn more"
-            learn_more="https://www.fonearena.com/blog/319515/oneplus-buds-review.html#:~:text=The%20OnePlus%20Buds%20comes%20equipped,supports%20SBC%20and%20AAC%20codecs."
+            learn_more=""
           />
           <FooterFirst
             ad={Ads3}
             title1="OnePlus Buds look absolutely stunning, especially the bold Nord Blue colour"
             title2="Learn more"
-            learn_more="https://www.ibtimes.co.in/oneplus-buds-review-closing-wireless-loop-oneplus-ecosystem-826039#:~:text=OnePlus%20Buds%3A%20Battery,or%20less%20the%20claimed%20time."
+            learn_more=""
           />
         </div>
         <div className="appFooterSecond">
