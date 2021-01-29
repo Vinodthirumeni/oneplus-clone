@@ -65,10 +65,10 @@ function Header() {
             <Popup img={Store8} title="Bundle" />
           </div>
         </div>
-        <a href="https://www.oneplus.in/brand?from=head">About</a>
-        <a href="https://www.oneplus.in/support?from=head">Support</a>
-        <a href="https://forums.oneplus.com/?from=head">Community</a>
-        <a href="https://www.oneplus.in/experience-and-retail?from=head#/">
+        <a href="https://oneplus-clone.web.app/">About</a>
+        <a href="https://oneplus-clone.web.app/">Support</a>
+        <a href="https://oneplus-clone.web.app/">Community</a>
+        <a href="https://oneplus-clone.web.app/">
           Find a store
         </a>
       </div>

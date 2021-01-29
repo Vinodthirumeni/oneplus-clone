@@ -12,57 +12,57 @@ function FooterThird() {
           <p>
             <strong>Phones</strong>
           </p>
-          <a href="https://www.oneplus.in/8t?from=foot">OnePlus 8T</a>
-          <a href="https://www.oneplus.in/nord?from=foot">OnePlus Nord</a>
-          <a href="https://www.oneplus.in/8-pro?from=foot">OnePlus 8 Pro</a>
-          <a href="https://www.oneplus.in/8?from=foot">OnePlus 8</a>
-          <a href="https://www.oneplus.in/7t-pro?from=foot">OnePlus 7T Pro</a>
+          <a href="https://oneplus-clone.web.app/">OnePlus 8T</a>
+          <a href="https://oneplus-clone.web.app/">OnePlus Nord</a>
+          <a href="https://oneplus-clone.web.app/">OnePlus 8 Pro</a>
+          <a href="https://oneplus-clone.web.app/">OnePlus 8</a>
+          <a href="https://oneplus-clone.web.app/">OnePlus 7T Pro</a>
         </div>
         <div className="footerThirdText">
           <p>
             <strong>Accessories</strong>
           </p>
-          <a href="https://www.oneplus.in/store/cases-protection?from=foot">
+          <a href="https://oneplus-clone.web.app/">
             Cases & Protection
           </a>
-          <a href="https://www.oneplus.in/store/power-cables?from=foot">
+          <a href="https://oneplus-clone.web.app/">
             Power & Cables
           </a>
-          <a href="https://www.oneplus.in/store/audio?from=foot">Audio</a>
-          <a href="https://www.oneplus.in/store/bundles?from=foot">Bundles</a>
-          <a href="https://www.oneplus.in/store/gear?from=foot">Gear</a>
+          <a href="https://oneplus-clone.web.app/">Audio</a>
+          <a href="https://oneplus-clone.web.app/">Bundles</a>
+          <a href="https://oneplus-clone.web.app/">Gear</a>
         </div>
         <div className="footerThirdText">
           <p>
             <strong>Programs</strong>
           </p>
-          <a href="https://play.google.com/store/apps/details?id=com.oneplus.mall">
+          <a href="https://oneplus-clone.web.app/">
             OnePlus Store app
           </a>
-          <a href="https://www.oneplus.in/education">Education Benefits</a>
-          <a href="https://www.oneplus.in/buyback?from=foot">Buyback Program</a>
-          <a href="https://www.oneplus.in/referral?from=foot">
+          <a href="https://oneplus-clone.web.app/">Education Benefits</a>
+          <a href="https://oneplus-clone.web.app/">Buyback Program</a>
+          <a href="https://oneplus-clone.web.app/">
             Referral Program
           </a>
-          <a href="https://photos.oneplus.com/?from=foot">Shot on OnePlus</a>
+          <a href="https://oneplus-clone.web.app/">Shot on OnePlus</a>
         </div>
         <div className="footerThirdText">
           <p>
             <strong>Support</strong>
           </p>
-          <a href="https://www.oneplus.in/support/shopping-help/details?from=foot">
+          <a href="https://oneplus-clone.web.app/">
             Shopping FAQs
           </a>
-          <a href="https://www.oneplus.in/support/manuals?from=foot">
+          <a href="https://oneplus-clone.web.app/">
             User Manuals
           </a>
-          <a href="https://www.oneplus.in/support/service-center?from=foot">
+          <a href="https://oneplus-clone.web.app/">
             Service Centers
           </a>
-          <a href="https://www.oneplus.in/support/repair?from=foot">
+          <a href="https://oneplus-clone.web.app/">
             Repair Service
           </a>
-          <a href="https://www.oneplus.in/support/contact?from=foot">
+          <a href="https://oneplus-clone.web.app/">
             Contact Us
           </a>
         </div>
@@ -70,15 +70,15 @@ function FooterThird() {
           <p>
             <strong>Company</strong>
           </p>
-          <a href="https://www.oneplus.in/brand?from=foot">About OnePlus</a>
-          <a href="https://forums.oneplus.com/?from=foot">Community</a>
-          <a href="https://oneplus.zohorecruit.in/recruit/Portal.na?digest=LN@TPV3Mvf0el6bBA.0JxQmINGNsv.wxQgEMVyonNHM-&iframe=false&mode=home&embedsource=CareerSite">
+          <a href="https://oneplus-clone.web.app/">About OnePlus</a>
+          <a href="https://oneplus-clone.web.app/">Community</a>
+          <a href="https://oneplus-clone.web.app/">
             Careers
           </a>
-          <a href="https://www.oneplus.in/sustainability?from=foot">
+          <a href="https://oneplus-clone.web.app/">
             Sustainability
           </a>
-          <a href="https://www.oneplus.in/press?from=foot">Press</a>
+          <a href="https://oneplus-clone.web.app/">Press</a>
         </div>
       </div>
       <div className="footerThirdBottom">
@@ -92,13 +92,13 @@ function FooterThird() {
           <p>9:00 am - 9:00 pm, Mon to Sun</p>
         </div>
         <div className="footerThirdBottomRight">
-          <a href="https://www.facebook.com/oneplusin">
+          <a href="https://oneplus-clone.web.app/">
             <FacebookIcon />
           </a>
-          <a href="https://www.instagram.com/oneplus_india">
+          <a href="https://oneplus-clone.web.app/">
             <InstagramIcon />
           </a>
-          <a href="https://twitter.com/OnePlus_IN">
+          <a href="https://oneplus-clone.web.app/">
             <TwitterIcon />
           </a>
         </div>
@@ -108,20 +108,20 @@ function FooterThird() {
           <p>India ( English / INR )</p>
         </div>
         <div className="footerThirdLastRight">
-          <a href="https://www.oneplus.in/legal/privacy-policy?from=foot">
+          <a href="https://oneplus-clone.web.app/">
             Privacy Policy
           </a>
-          <a href="https://www.oneplus.in/legal/user-agreement?from=foot">
+          <a href="https://oneplus-clone.web.app/">
             User Agreement
           </a>
-          <a href="https://www.oneplus.in/legal/terms-of-sales?from=foot">
+          <a href="https://oneplus-clone.web.app/">
             Terms of Sales
           </a>
-          <a href="https://www.oneplus.in/legal/e-waste-management?from=foot">
+          <a href="https://oneplus-clone.web.app/">
             E-waste management
           </a>
-          <a href="mailto:security@oneplus.com">Security Feedback</a>
-          <a href="https://www.oneplus.in/sitemap?from=foot">Site Map</a>
+          <a href="https://oneplus-clone.web.app/">Security Feedback</a>
+          <a href="https://oneplus-clone.web.app/">Site Map</a>
         </div>
       </div>
 
